@@ -1,0 +1,37 @@
+body {
+    max-width: 600px;
+    margin: 5rem;
+    border: solid black 1px;
+    padding: 4rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    text-align: center;
+    font-size: 20px;
+}
+
+img {
+    max-width: 100px;
+}
+
+p {
+    text-align: left;
+}
+
+.does-list,li {
+    text-align: left;
+    padding: .5rem;
+    margin-left: 2rem;
+}
+
+h1 {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+h2 {
+    font-size: smaller;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    border-bottom: solid rgb(156, 155, 155) 1px;
+    color: #006EB6;
+}
