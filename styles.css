@@ -9,6 +9,16 @@ body {
     font-size: 20px;
 }
 
+.dark h2 {
+    color: hsl(206deg 100% 72.6%);
+}
+
+.dark {
+    background-color: #333;
+    color: white;
+    border: solid white 1px;
+}
+
 img {
     max-width: 100px;
 }
