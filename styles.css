@@ -45,3 +45,11 @@ h2 {
     border-bottom: solid rgb(156, 155, 155) 1px;
     color: #006EB6;
 }
+
+footer {
+    display: flex;
+    flex-direction: column;
+    max-width: 10rem;
+    margin-left: 34%;
+    justify-content: center;
+}
