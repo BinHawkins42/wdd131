@@ -1,0 +1,143 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+/* header */
+
+body {
+    max-width: 800px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+:root {
+    --Gold-color: hsl(31, 72%, 77%);
+    --Red-color: #AF1B3F;
+    --Dar-color: #010667;
+    --Body-font: Helvetica, Arial, sans-serif;
+    --Headline-font: "Lora", Impact, serif;
+}
+
+header {
+    display: grid;
+    grid-template-columns: 100px 1fr 1fr;
+    background-color: var(--Dar-color);
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 1rem;
+    align-items: center;
+}
+
+header .title {
+    color: white;
+    font-family: var(--Headline-font);
+}
+
+header .logo {
+    grid-column: 1 / 2;
+    grid-row: 1 / 2;
+    max-width: 100%;
+}
+
+header .search fieldset .searchButton {
+
+}
+
+header .nav {
+    grid-column: 3 / 4;
+    grid-row: 1 / 2;
+}
+
+header .nav ul  {
+    display: flex;
+    list-style: none;
+}
+
+header .nav ul li {
+    margin-right: 20px;
+    background-color: white;
+    padding: .3ref;
+
+}
+
+header .nav ul li a {
+    text-decoration: none;
+    padding: .3rem;
+    color: black;
+    font-family: var(--Body-font);
+}
+
+/* body */
+
+main {
+display: grid;
+grid-template-columns: 1fr 1fr;
+
+}
+
+main .filter {
+    grid-column: 2 / 3;
+    margin: 10%;
+    background-color: beige;
+    border: solid black 2px;
+}
+
+main .review_preview {
+    grid-column: 1 / 2;
+    grid-row: 1 / 2;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+}
+
+main .review_preview .preview_right {
+    margin: 10%;
+   
+}
+
+main .review_preview .preview_right img {
+    max-width: 100%;
+}
+
+main .review_preview .preview_left {
+    text-align: right;
+    padding: 1rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    border-right: solid black 1px;
+
+}
+
+main .review_preview .preview_left h2 {
+    font-family: var(--Headline-font);
+    line-height: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+main .review_preview .preview_left p {
+    font-family: var(--Body-font);
+    margin: .2rem;
+}
+
+main .review_preview + .review_preview {
+    grid-column: 1 / 2;
+    grid-row: 2 / 3;
+}
+
+/* footer */
+
+footer {
+    display: flex;
+    font-family: var(--Body-font);
+    font-size: large;
+    color: white;
+    background-color: var(--Dar-color);
+    padding: 1rem;
+    align-items: center;
+}
+
+footer h3 {
+    margin: 1rem;
+}

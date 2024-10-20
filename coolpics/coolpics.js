@@ -13,8 +13,7 @@ function toggleMenu() {
   function viewHandler(event) {
     // Step 1: Get the clicked image
     const clickedImage = event.target;
-
-    // Step 2: Get the src of the clicked image
+     // Step 2: Get the src of the clicked image
     const imageSrc = clickedImage.getAttribute('src');
     console.log(imageSrc); 
     // Step 3: Split the src on "-" to manipulate the filename
@@ -26,13 +25,8 @@ function toggleMenu() {
     // Step 5: Insert the viewer template with the full-size image
     const viewerHTML = viewerTemplate(fullImageSrc, clickedImage.alt);
     document.body.insertAdjacentHTML('afterbegin', viewerHTML);
-
     // Step 6: Add an event listener to the close button to close the viewer
     document.querySelector('.close-viewer').addEventListener('click', closeViewer);
-
-   // should log the full src of the clicked image
-    console.log(imageNameParts);  // should log the array from split()
-    console.log(fullImageSrc);  // should log the new full-size image src
 }
 
 function closeViewer() {
