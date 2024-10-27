@@ -36,6 +36,19 @@ const articles = [
 		ages: "12-16",
 		genre: "Fantasy",
 		stars: "⭐⭐⭐⭐⭐"
+	},
+	{
+		id: 4,
+		title: "Revenant Gun (3) (The Machineries of Empire)",
+		date: "June 12, 2018",
+		description:
+		"Shuos Jedao is awake... ...and nothing is as he remembers. He's a teenager, a cadet-a nobody-in the body of an old man; a general in command of an elite force. And he's the most feared, and reviled, man in the galaxy.",
+		imgSrc:
+		"https://m.media-amazon.com/images/I/81S4snnVYwL._SY466_.jpg",
+		imgAlt: "Book cover for Revenant Gun",
+		ages: "15-21",
+		genre: "Science Fiction",
+		stars: "⭐⭐⭐⭐"
 		}
 ];
 
