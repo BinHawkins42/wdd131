@@ -73,7 +73,7 @@ header .nav ul li a {
 
 main {
 display: grid;
-grid-template-columns: 1fr 1fr;
+grid-template-columns: 1fr 200px;
 
 }
 
@@ -84,12 +84,19 @@ main .filter {
     border: solid black 2px;
 }
 
+main .blog_posts {
+    grid-column: 1 / 2;
+    grid-row: 1 / 2;
+}
+
 main .review_preview {
     grid-column: 1 / 2;
     grid-row: 1 / 2;
     display: grid;
     grid-template-columns: 1fr 1fr;
     align-items: center;
+    text-decoration: none;
+    color: black;
 }
 
 main .review_preview .preview_right {
