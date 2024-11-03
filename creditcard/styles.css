@@ -1,0 +1,119 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,300);
+body {
+  background-color: #009488;
+  font-family: lato, 'helvetica-light';
+  position: relative;
+  text-transform: uppercase;
+  padding: 20px 0;
+  display: grid;
+  grid-template-columns: 1fr 4fr 1fr;
+  grid-template-rows: 1fr 4fr 1fr 1fr;
+  gap: 20px;
+  max-width: 500px;
+}
+
+.card-front {
+    grid-row: 1 / 3;
+    grid-column: 1 /3;
+    gap: 20px;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    background-color: aliceblue;
+    border: solid gray 1px;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 3px 3px 0 rgba(0, 0, 0, 0.1);
+}
+
+.cardNumber-container {
+    grid-column: 1 / 3;
+    grid-row: 2 / 3;
+    
+}
+
+.card-front img {
+    justify-self: end;
+}
+
+.cardNumber-container input {
+    width: 95%;
+    height: 25px;
+    justify-self: center;
+}
+
+.cardHolder-container input {
+    width: 95%;
+    height: 25px;
+    justify-self: center;
+}
+
+.expDate-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.expDate-container .expdate-input {
+    display: flex;
+    flex-direction: row;
+}
+
+.expDate-container .expdate-input input {
+    width: 40%;
+    height: 25px;
+}
+
+
+
+.card-back {
+    grid-row: 2 / 4;
+    grid-column: 2 / 4;
+    display: grid;
+    grid-template-columns: 80% 20%;
+    grid-template-rows: 65% 35%;
+    background-color: aliceblue;
+    border: solid gray 1px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 0 rgba(0, 0, 0, 0.1);
+}
+
+.scanBar {
+    background-color: black;
+    grid-column: 1 / 3;
+    height: 30px;
+    padding-top: 10px;
+    margin-top: 20px;
+}
+
+.cvc-container {
+    grid-column: 2 / 3;
+    grid-row: 2 / 3;
+    padding-right: 10px;
+}
+
+.cvc-container input {
+    width: 75%;
+}
+
+.cvc-container p {
+    font-size: x-small;
+}
+
+.submit-button {
+    grid-column: 3 / 4;
+    grid-row: 4 / 5;
+
+}
+
+label {
+    display: block;
+    margin: 0 auto 7px;
+  }
+
+ .submit-button button {
+    width: 95%;
+    height: 75%;
+    border: solid gray 1px;
+    border-radius: 10px;
+    font-size: larger;
+ } 
