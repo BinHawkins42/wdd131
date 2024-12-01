@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    max-width: 1000px;
+    margin-left: 25%; 
+    margin-right: 25%; 
+    font-family: "Open Sans", sans-serif;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  h2 {
+    margin: 1rem;
+    font-weight: 800;
+    font-size: x-large;
+  }
+
+  .review p {
+    margin: 2rem;
+  }
+
+  .review h3 {
+    text-align: center;
+    font-weight: 800;
+    margin-bottom: 2rem;
+  }
+
+  div {
+    margin: 1rem;
+    padding: 1rem;
+  }
+
+  .color_box_green {
+    background-color: #00FF00;
+    color:black;
+  }
+
+  .color_box_black {
+    background-color: #000000;
+    color:white;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  @media (max-width: 400px) {
+    body {
+        max-width: 1000px;
+        margin-left: 0%; 
+        margin-right: 0%; 
+        font-family: "Open Sans", sans-serif;
+      }
+  }

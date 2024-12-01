@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1891" viewBox="0 0 1920 1891">
+  <defs>
+    <clipPath id="clip-Web_1920_3">
+      <rect width="1920" height="1891"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_3" data-name="Web 1920 – 3" clip-path="url(#clip-Web_1920_3)">
+    <rect width="1920" height="1891" fill="#fff"/>
+    <g id="Rectangle_2" data-name="Rectangle 2" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="1920" height="1737" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1919" height="1736" fill="none"/>
+    </g>
+    <line id="Line_3" data-name="Line 3" y1="1736.5" x2="1920" transform="translate(0.5 0.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_4" data-name="Line 4" x1="1920" y1="1736.5" transform="translate(0.5 0.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(24 19)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="180" height="178" stroke="none"/>
+      <rect x="0.5" y="0.5" width="179" height="177" fill="none"/>
+    </g>
+    <line id="Line_1" data-name="Line 1" x2="180" y2="178" transform="translate(24 19)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_2" data-name="Line 2" y1="178" x2="180" transform="translate(24.5 19.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <text id="Galactic_Grid" data-name="Galactic Grid" transform="translate(230 124)" fill="#707070" font-size="82" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="0">Galactic Grid</tspan></text>
+    <text id="Ship_Reviews" data-name="Ship Reviews" transform="translate(236 170)" fill="#707070" font-size="39" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="0">Ship Reviews</tspan></text>
+    <text id="LOGO" transform="translate(86 117)" fill="#707070" font-size="20" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="0">LOGO</tspan></text>
+    <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(1092 84)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="741" height="38" rx="19" stroke="none"/>
+      <rect x="0.5" y="0.5" width="740" height="37" rx="18.5" fill="none"/>
+    </g>
+    <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(1710 84)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="123" height="38" rx="19" stroke="none"/>
+      <rect x="0.5" y="0.5" width="122" height="37" rx="18.5" fill="none"/>
+    </g>
+    <text id="Search" transform="translate(1741 110)" fill="#707070" font-size="20" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="0">Search</tspan></text>
+    <text id="HERO_IMAGE" data-name="HERO IMAGE" transform="translate(884 383)" fill="#707070" font-size="20" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="0">HERO IMAGE</tspan></text>
+    <text id="Home" transform="translate(1092 171)" fill="#707070" font-size="20" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="0">Home</tspan></text>
+    <text id="About" transform="translate(1183 171)" fill="#707070" font-size="20" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="0">About</tspan></text>
+    <text id="Arcive" transform="translate(1274 171)" fill="#707070" font-size="20" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="0">Arcive</tspan></text>
+    <g id="Rectangle_7" data-name="Rectangle 7" transform="translate(0 1737)" stroke="#707070" stroke-width="1">
+      <rect width="1920" height="155" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1919" height="154" fill="none"/>
+    </g>
+    <g id="Rectangle_8" data-name="Rectangle 8" transform="translate(916.5 1757.807)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="115" height="113" stroke="none"/>
+      <rect x="0.5" y="0.5" width="114" height="112" fill="none"/>
+    </g>
+    <line id="Line_7" data-name="Line 7" x2="115" y2="113" transform="translate(916.5 1757.807)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_8" data-name="Line 8" y1="113.615" x2="114.891" transform="translate(916.819 1757.693)" fill="none" stroke="#707070" stroke-width="1"/>
+    <text id="LOGO-2" data-name="LOGO" transform="translate(956.5 1819.807)" fill="#707070" font-size="13" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="0">LOGO</tspan></text>
+    <text id="Galactic_Grid-2" data-name="Galactic Grid" transform="translate(678 1805)" fill="#fff" font-size="34" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="0">Galactic Grid</tspan></text>
+    <text id="Gabriel_Jones" data-name="Gabriel Jones" transform="translate(659 1853)" fill="#fff" font-size="20" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="0">Gabriel Jones</tspan></text>
+    <text id="WDD_131" data-name="WDD 131" transform="translate(803 1853)" fill="#fff" font-size="20" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="0">WDD 131</tspan></text>
+    <g id="Rectangle_9" data-name="Rectangle 9" transform="translate(1173 1783)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="62" height="62" stroke="none"/>
+      <rect x="0.5" y="0.5" width="61" height="61" fill="none"/>
+    </g>
+    <g id="Rectangle_10" data-name="Rectangle 10" transform="translate(1261 1783)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="62" height="62" stroke="none"/>
+      <rect x="0.5" y="0.5" width="61" height="61" fill="none"/>
+    </g>
+    <g id="Rectangle_11" data-name="Rectangle 11" transform="translate(1349 1783)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="62" height="62" stroke="none"/>
+      <rect x="0.5" y="0.5" width="61" height="61" fill="none"/>
+    </g>
+    <text id="social_media_links" data-name="social media links" transform="translate(1206 1777)" fill="#fff" font-size="20" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="0">social media links</tspan></text>
+    <g id="Rectangle_12" data-name="Rectangle 12" transform="translate(287 235)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="1347" height="1458" rx="32" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1346" height="1457" rx="31.5" fill="none"/>
+    </g>
+    <g id="Rectangle_13" data-name="Rectangle 13" transform="translate(313 332)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="1295" height="627" rx="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1294" height="626" rx="23.5" fill="none"/>
+    </g>
+    <text id="About_Galactic_Grid" data-name="About Galactic Grid" transform="translate(609 311)" fill="#707070" font-size="73" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="0">About Galactic Grid</tspan></text>
+    <line id="Line_9" data-name="Line 9" x2="1277" y2="611" transform="translate(320.5 339.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_10" data-name="Line 10" x1="1277" y2="611" transform="translate(320.5 339.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <text id="Your_one-stop_shop_for_all_things_sci-fi_gaming_We_re_passionate_about_exploring_vast_galaxies_commanding_powerful_fleets_and_unraveling_the_mysteries_of_the_cosmos._What_We_Offer:_In-depth_Game_Reviews_and_Analyses:_We_dissect_the_latest_and_greatest" data-name="Your one-stop shop for all things sci-fi gaming! We&apos;re passionate about exploring vast galaxies, commanding powerful fleets, and unraveling the mysteries of the cosmos.
+
+What We Offer:
+
+In-depth Game Reviews and Analyses: We dissect the latest and greatest" transform="translate(313 994)" fill="#707070" font-size="25" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="27">Your one-stop shop for all things sci-fi gaming! </tspan><tspan x="0" y="61">We&apos;re passionate about exploring vast </tspan><tspan x="0" y="95">galaxies, commanding powerful fleets, and </tspan><tspan x="0" y="129">unraveling the mysteries of the cosmos.</tspan><tspan x="0" y="163"></tspan><tspan x="0" y="197">What We Offer:</tspan><tspan x="0" y="231"></tspan><tspan x="0" y="265">In-depth Game Reviews and Analyses: We </tspan><tspan x="0" y="299">dissect the latest and greatest sci-fi games, </tspan><tspan x="0" y="333">from grand strategy epics to immersive RPGs.</tspan><tspan x="0" y="367">Let&apos;s Plays and Gameplay Highlights: Join us as </tspan><tspan x="0" y="401">we navigate alien worlds, engage in epic </tspan><tspan x="0" y="435">battles, and uncover hidden secrets.</tspan><tspan x="0" y="469">Modding and Customization Tutorials: Learn </tspan><tspan x="0" y="503">how to tailor your gaming experience with </tspan><tspan x="0" y="537">mods, tweaks, and custom content.</tspan><tspan x="0" y="571">Community Discussions and Reviews: Connect </tspan><tspan x="0" y="605">with fellow space enthusiasts, share your </tspan><tspan x="0" y="639">thoughts, and participate in lively debates.</tspan><tspan x="0" y="673">Join us on this interstellar journey!</tspan><tspan x="0" y="707"></tspan></text>
+    <g id="Rectangle_14" data-name="Rectangle 14" transform="translate(1029 1146)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="579" height="399" rx="21" stroke="none"/>
+      <rect x="0.5" y="0.5" width="578" height="398" rx="20.5" fill="none"/>
+    </g>
+    <g id="Rectangle_16" data-name="Rectangle 16" transform="translate(1183 994)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="271" height="70" rx="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="270" height="69" rx="23.5" fill="none"/>
+    </g>
+    <text id="Link_To_Youtube" data-name="Link To Youtube" transform="translate(1224 1036)" fill="#707070" font-size="25" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="0">Link To Youtube</tspan></text>
+    <line id="Line_15" data-name="Line 15" x2="566" y2="378" transform="translate(1031.5 1156.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_16" data-name="Line 16" x1="559" y2="378" transform="translate(1038.5 1156.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <text id="Galactic_grid_video_intro" data-name="Galactic grid video intro" transform="translate(1166 1351)" fill="#707070" font-size="25" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="0">Galactic grid video intro</tspan></text>
+    <text id="Galactic_Grid_picture" data-name="Galactic Grid picture" transform="translate(820 655)" fill="#707070" font-size="25" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="0">Galactic Grid picture</tspan></text>
+    <text id="Back_ground_stars" data-name="Back ground stars" transform="translate(1669 978)" fill="#707070" font-size="25" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="0">Back ground stars</tspan></text>
+  </g>
+</svg>
