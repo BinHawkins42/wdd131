@@ -67,3 +67,4 @@ document.getElementById('search-button').addEventListener('click', handleSearch)
 
 // Display one random recipe on page load
 displayRandomRecipe();
+
