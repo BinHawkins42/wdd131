@@ -11,7 +11,7 @@ const reviews = [
         ],
 		image1: './images/CV-27_Hammerhead_Corvette_main.jpg',
         image2: './images/CV-27_Hammerhead_Corvette_second.jpg',
-        image3: './images/CV-27_Hammerhead_corvette_third.jpg',
+        image3: './images/CV-27_Hammerhead_Corvette_third.jpg',
         paragraphPart1: [
             "TwoNiner's CV-27 Hammerhead Corvette is a formidable vessel that commands attention. Its imposing silhouette, bristling with weaponry, immediately signals its power. This ship isn't just a pretty face; it's a well-engineered beast, capable of holding its own in any aerial engagement. The level of detail poured into this ship is simply astounding. Every nook and cranny of the interior has been meticulously crafted, resulting in a truly immersive experience. The way certain hallways seem to bend and twist in impossible directions is a testament to the creator's ingenuity.",
         ],
